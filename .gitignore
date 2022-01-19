@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ToDoApp/v16
+/ToDoApp/appsettings.Development.json
+/ToDoApp/appsettings.json

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ToDoApp",
+    "\\ToDoApp\\Controllers",
+    "\\ToDoApp\\Models",
+    "\\ToDoApp\\Models\\Domains",
+    "\\ToDoApp\\Models\\Dtos",
+    "\\ToDoApp\\Models\\Repositories",
+    "\\ToDoApp\\Models\\Response"
+  ],
+  "SelectedNode": "\\ToDoApp\\Models\\Dtos\\UsersTaskDto.cs",
+  "PreviewInSolutionExplorer": false
+}
